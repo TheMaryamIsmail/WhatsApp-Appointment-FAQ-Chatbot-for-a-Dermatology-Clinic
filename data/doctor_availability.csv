@@ -1,0 +1,19 @@
+doctor_id,doctor_name,day_of_week,start_time,end_time,slot_duration_mins,is_active
+doc_samiya,Dr. Samiya Irfan,Tuesday,16:00,19:00,30,true
+doc_samiya,Dr. Samiya Irfan,Thursday,15:30,19:30,30,true
+doc_samiya,Dr. Samiya Irfan,Friday,17:00,20:00,30,true
+doc_tariq,Dr. Tariq Mansoor,Monday,11:00,15:00,30,true
+doc_tariq,Dr. Tariq Mansoor,Wednesday,11:00,15:00,30,true
+doc_tariq,Dr. Tariq Mansoor,Friday,11:00,15:00,30,true
+doc_hina,Dr. Hina Zubair,Monday,15:30,19:30,30,true
+doc_hina,Dr. Hina Zubair,Wednesday,15:30,19:30,30,true
+doc_hina,Dr. Hina Zubair,Saturday,11:00,16:00,30,true
+cons_sarah,Sarah Ahmed,Tuesday,11:00,19:00,45,true
+cons_sarah,Sarah Ahmed,Thursday,11:00,19:00,45,true
+cons_sarah,Sarah Ahmed,Saturday,11:00,19:00,45,true
+cons_fatima,Fatima Noor,Monday,11:00,18:00,45,true
+cons_fatima,Fatima Noor,Wednesday,11:00,18:00,45,true
+cons_fatima,Fatima Noor,Friday,11:00,18:00,45,true
+# Intentional Staff Typos for Validation Stress Test:
+doc_samiya,dr. samiya irfan,Teusday , 4pm ,7pm, 30,true
+doc_tariq,Tariq Mansoor, wed ,11:00 AM,3:00 PM,30,true

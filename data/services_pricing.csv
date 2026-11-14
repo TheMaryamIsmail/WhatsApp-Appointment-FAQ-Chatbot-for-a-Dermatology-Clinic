@@ -1,0 +1,15 @@
+service_id,category,service_name,service_name_ur,service_name_ru,price_range_pkr,practitioner,pre_post_pdf_id,description
+1,Clinical,Consultation - Dr. Samiya Irfan,ڈاکٹر سمیعہ عرفان کنسلٹیشن,Dr. Samiya Irfan Consultation,4000,Dr. Samiya Irfan,,Comprehensive clinical dermatology & aesthetic assessment (FCPS)
+2,Clinical,Consultation - Dr. Tariq Mansoor,ڈاکٹر طارق منصور کنسلٹیشن,Dr. Tariq Mansoor Consultation,3000,Dr. Tariq Mansoor,,Acne scars hair restoration & general skin checkup
+3,Clinical,Consultation - Dr. Hina Zubair,ڈاکٹر حنا زبیر کنسلٹیشن,Dr. Hina Zubair Consultation,2500,Dr. Hina Zubair,,Pediatric skin diseases eczema & pigmentation
+4,Aesthetic,Aesthetic Evaluation - Sarah / Fatima,ایستھیٹک کنسلٹنٹ معائنہ,Aesthetic Consultant Checkup,1500,Aesthetic Consultants,,Waived if cosmetic procedure taken on same day
+5,Aesthetic,HydraFacial MD,ہائیڈرا فیشل ایم ڈی,HydraFacial MD,12000 - 18000,Sarah Ahmed / Fatima Noor,pdf_hydrafacial,Medical grade deep cleansing exfoliation extraction & hydration
+6,Aesthetic,Chemical Peel (Superficial to Medium),کیمیکل پیل,Chemical Peel,8000 - 15000,Fatima Noor / Dr. Tariq,pdf_chemical_peels,Targeted exfoliation for melasma hyperpigmentation and active acne
+7,Aesthetic,Laser Hair Removal (Full Face),لیزر ہیئر ریموول (مکمل چہرہ),Laser Hair Removal (Full Face),6000 - 9000,Sarah Ahmed,pdf_laser_hair_removal,Triple-wavelength medical diode laser for permanent reduction
+8,Aesthetic,Laser Hair Removal (Full Body),لیزر ہیئر ریموول (مکمل جسم),Laser Hair Removal (Full Body),35000 - 50000,Sarah Ahmed,pdf_laser_hair_removal,Complete medical diode laser package per session
+9,Aesthetic,Microneedling / PRP Vampire Facial,مائیکرو نیڈلنگ اور پی آر پی,Microneedling / PRP,14000 - 22000,Dr. Tariq Mansoor / Fatima Noor,pdf_prp_microneedling,Autologous platelet-rich plasma collagen induction for scars & glow
+10,Injectable,Botox (Allergan USA per unit),بوٹوکس انجیکشن (فی یونٹ),Botox Injection (Per Unit),650 - 800,Dr. Samiya Irfan,pdf_botox_fillers,Forehead crow's feet frown lines & masseter reduction
+11,Injectable,Dermal Fillers (Juvederm 1ml syringe),ڈیرمل فلرز (فی سرنج),Dermal Fillers (1ml Syringe),45000 - 65000,Dr. Samiya Irfan,pdf_botox_fillers,Hyaluronic acid lip sculpting cheek augmentation & under-eye hollows
+12,Aesthetic,CO2 Fractional Laser Resurfacing,فریکشنل CO2 لیزر,CO2 Fractional Laser,20000 - 32000,Dr. Samiya Irfan / Dr. Tariq,pdf_co2_laser,Ablative fractional resurfacing for deep pitted acne scars & wrinkles
+13,Clinical,Wart & Skin Tag Cautery / Removal,مسے یا سکن ٹیگ اتارنے کا علاج,Wart / Skin Tag Removal,3500 - 8000,Dr. Tariq Mansoor / Dr. Hina,pdf_wart_removal,Radiofrequency cautery or cryotherapy per lesion
+14,Aesthetic,Glutathione IV Radiance Drip,گلوٹاتھائیون آئی وی ڈرپ,Glutathione IV Drip,9000 - 16000,Medical Staff / Sarah Ahmed,pdf_glutathione_iv,Antioxidant skin brightening with high dose Vitamin C
